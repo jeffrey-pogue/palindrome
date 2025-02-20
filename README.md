@@ -1,0 +1,1 @@
+I made this program to answer some curiosities about how palindromes work in English. It can technically use any dictionary you give it. There are two variables you need to worry about, which is max length and min word size. Lower min word size leads to (IMO) less interesting palindromes. I'll add grammaticality in the future. 
